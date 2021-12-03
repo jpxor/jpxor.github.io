@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jpxor.github.io/test-ghpage-publii/sitemap.xml
